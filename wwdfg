@@ -1,0 +1,23 @@
+[33mcommit 4d7f0a55e602456b056f99c9c848a891525ac204[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mchapter-2[m[33m)[m
+Author: Александров Владислав Викторович <gr606_alvvi@ttit.local>
+Date:   Wed May 3 12:57:58 2023 +0700
+
+    Creates chapter 2 and adds the topic sentence
+
+[33mcommit dd36c66deafcfa4edf485d11956ee77ed8b1d3ef[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Александров Владислав Викторович <gr606_alvvi@ttit.local>
+Date:   Wed May 3 12:47:32 2023 +0700
+
+    Added the intro line to chapter 1
+
+[33mcommit 21f220afdf669e0a930a080234361a4becf9da2d[m
+Author: Александров Владислав Викторович <gr606_alvvi@ttit.local>
+Date:   Wed May 3 09:56:31 2023 +0700
+
+    New chapter 1 file with chapter heading
+
+[33mcommit 4a281095e4e605b67731db6b0b7048a852079bb3[m
+Author: cobra152 <96676541+cobra152@users.noreply.github.com>
+Date:   Tue May 2 17:39:28 2023 +0700
+
+    Initial commit
